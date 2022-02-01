@@ -103,7 +103,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Baixar JymStore 3.1 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/JymStore.png</url>
-<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<target type="u">psgm:install?contentid=TA9000-JTSMODDER_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/JymStore_Nsl_v3.1.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
@@ -111,7 +111,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Baixar JxlStore v4000 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/JxlStore.png</url>
-<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<target type="u">psgm:install?contentid=TA9000-JTSMUDDER_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/JxlStore_V4.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
@@ -119,7 +119,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Baixar Ghost Store 2.0 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/GhostStore.png</url>
-<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<target type="u">psgm:install?contentid=TA9000-GHOSTSHOP_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/GhostStore_2.0.pkg.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
