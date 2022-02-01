@@ -13,7 +13,7 @@
 </mtrl>
 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Instalar Sandro Store™ Free</desc>
+<desc>Baixar Sandro Store™ Free</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandrostore_free.png</url>
 <target type="u">psgm:install?contentid=TA9000-SANDROSTO_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/lojavip/TA9000-SANDROSTO_00-0000000000000000.pkg</target>
 <cntry agelmt="0">all</cntry>
@@ -21,12 +21,132 @@
 </mtrl>
 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Instalar Sandro Store™ Play</desc>
-<url type="2">https://github.com/sandrojr1991/SANDROSTORE/raw/main/sandro_store_play.png</url>
+<desc>Baixar Zuko Store™ 3.7</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/zukostore.png</url>
 <target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
 
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar You Game Store™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/YouGameStore_1.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar Wikistore 1.0.5™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/Wikistore_1.0.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar WebStore™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/WebStore.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar VideoStore 2.1™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/VideoStore.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar Thanos V12 ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/Thanos_V12.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar Soccer Store ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/SoccerStore.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar Soccer Store ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/SoccerStore.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar PS3 HEN Games ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/PS3HENGames.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar MaxStore 3.5 ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/MaxStore.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar MaxPlayGames 1.0 ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/MaxPlayGames.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar JymStore 3.1 ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/JymStore.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar JxlStore v4000 ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/JxlStore.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar Ghost Store 2.0 ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/GhostStore.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar ErneStore ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/ErneStore.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Baixar DuckStore ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/DuckStore.png</url>
+<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>   
+  
 </spc>
 </nsx>
