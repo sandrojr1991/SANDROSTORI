@@ -15,7 +15,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Baixar Sandro Store™ Free</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandrostore_free.png</url>
-<target type="u">psgm:install?contentid=TA9000-SANDROSTO_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/lojavip/TA9000-SANDROSTO_00-0000000000000000.pkg</target>
+<target type="u">psgm:install?contentid=TA9000-SANDROGAM_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/SandroStore_Free.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
@@ -23,7 +23,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Baixar Zuko Store™ 3.7</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/zukostore.png</url>
-<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<target type="u">psgm:install?contentid=TA9000-ZUKOSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/ZukoStore_3.7.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
@@ -31,7 +31,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Baixar You Game Store™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/YouGameStore_1.png</url>
-<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<target type="u">psgm:install?contentid=TA9000-YOUGSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/YouGameStore_1.2.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
@@ -39,7 +39,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Baixar Wikistore 1.0.5™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/Wikistore_1.0.png</url>
-<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<target type="u">psgm:install?contentid=TA9000-WIKISTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Wikistore_1.0.5.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
@@ -47,7 +47,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Baixar WebStore™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/WebStore.png</url>
-<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<target type="u">psgm:install?contentid=UP0100-HANTOOLSA_00-PAPOGAMES&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/WebStore_v2.7.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
@@ -55,7 +55,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Baixar VideoStore 2.1™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/VideoStore.png</url>
-<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<target type="u">psgm:install?contentid=TA9000-VIDESTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/VideoStore_2.1.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
@@ -63,7 +63,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Baixar Thanos V12 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/Thanos_V12.png</url>
-<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<target type="u">psgm:install?contentid=UP0100-ZMODOOLBX_00-PINK1000DEVIL303&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Thanos_V12.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
@@ -71,7 +71,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Baixar Soccer Store ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/SoccerStore.png</url>
-<target type="u">psgm:install?contentid=TA9000-STOREPLAY_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/untagged-df556e15b46067c9ce01/TA9000-STOREPLAY_00-0000000000000000.pkg</target>
+<target type="u">psgm:install?contentid=TA9000-SOCCERPS3_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/SoccerStore_1.2.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
