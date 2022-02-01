@@ -119,7 +119,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Baixar Ghost Store 2.0 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/GhostStore.png</url>
-<target type="u">psgm:install?contentid=TA9000-GHOSTSHOP_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/GhostStore_2.0.pkg.pkg</target>
+<target type="u">psgm:install?contentid=TA9000-GHOSTSHOP_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/GhostStore_2.0.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
