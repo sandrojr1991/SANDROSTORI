@@ -143,7 +143,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Multiman ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/multiman.png</url>
-<target type="u">psgm:install?contentid=TA9000-DUCKSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Multiman.pkg</target>
+<target type="u">psgm:install?contentid=MM4PS3-BLES80608_00-MULTIMANAGER0485&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Multiman.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
@@ -183,7 +183,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>NetFlix No PSN™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/netfilx.png</url>
-<target type="u">psgm:install?contentid=TA9000-DUCKSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Netflix.pkg</target>
+<target type="u">psgm:install?contentid=UT0007-NPUP00030_00-NETFLIXRIGEL01NA&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Netflix.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>   
