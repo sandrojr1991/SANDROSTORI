@@ -133,6 +133,14 @@
 </mtrl>  
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Pkgi ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/pkgi.png</url>
+<target type="u">psgm:install?contentid=UP0001-NP00PKGI3_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/DuckStore.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>   
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Apollo Save Tools ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/apollo.png</url>
 <target type="u">psgm:install?contentid=UP0001-NP0APOLLO_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Apollo.pkg</target>
