@@ -103,7 +103,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Baixar JymStore 3.1 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/JymStore.png</url>
-<target type="u">psgm:install?contentid=TA9000-JTSMODDER_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/JymStore.pkg</target>
+<target type="u">psgm:install?contentid=TA9000-JYMSSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/JymStore.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
@@ -111,7 +111,7 @@
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Baixar JxlStore v4000 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/JxlStore.png</url>
-<target type="u">psgm:install?contentid=TA9000-JTSMUDDER_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/JxlStore.pkg</target>
+<target type="u">psgm:install?contentid=TA9000-JTSMODDER_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/JxlStore.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl> 
