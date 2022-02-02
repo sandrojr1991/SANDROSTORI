@@ -4,7 +4,7 @@
 <spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>Conheça a Santo Store™ VIP</desc>
+<desc>Assista o video completo da Santo Store™ VIP</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.png</url>
 <url type="73">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandro_store.swf</url>
 <target type="u">https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/LOJA_PS3_SANDRO_STORE_20_PREMIUM.mp4</target>
@@ -13,7 +13,7 @@
 </mtrl>
 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar Sandro Store™ Free</desc>
+<desc>Sandro Store™ Free V3 4K</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sandrostore_free.png</url>
 <target type="u">psgm:install?contentid=TA9000-SANDROGAM_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORE/releases/download/Stores/SandroStore_Free.pkg</target>
 <cntry agelmt="0">all</cntry>
@@ -21,7 +21,7 @@
 </mtrl>
 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar Zuko Store™ 3.7</desc>
+<desc>Zuko Store™ 3.7</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/zukostore.png</url>
 <target type="u">psgm:install?contentid=TA9000-ZUKOSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/ZukoStore_3.7.pkg</target>
 <cntry agelmt="0">all</cntry>
@@ -29,7 +29,7 @@
 </mtrl>
 
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar You Game Store™</desc>
+<desc>You Game Store™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/YouGameStore_1.png</url>
 <target type="u">psgm:install?contentid=TA9000-YOUGSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/YouGameStore_1.2.pkg</target>
 <cntry agelmt="0">all</cntry>
@@ -37,7 +37,7 @@
 </mtrl>
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar Wikistore 1.0.5™</desc>
+<desc>Wikistore 1.0.5™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/Wikistore_1.0.png</url>
 <target type="u">psgm:install?contentid=TA9000-WIKISTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Wikistore_1.0.5.pkg</target>
 <cntry agelmt="0">all</cntry>
@@ -45,7 +45,7 @@
 </mtrl> 
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar WebStore™</desc>
+<desc>WebStore™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/WebStore.png</url>
 <target type="u">psgm:install?contentid=TA9000-WEBSTOREC_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/WebStore.pkg</target>
 <cntry agelmt="0">all</cntry>
@@ -53,7 +53,7 @@
 </mtrl>  
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar VideoStore 2.1™</desc>
+<desc>VideoStore 2.1™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/VideoStore.png</url>
 <target type="u">psgm:install?contentid=TA9000-VIDESTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/VideoStore_2.1.pkg</target>
 <cntry agelmt="0">all</cntry>
@@ -61,7 +61,7 @@
 </mtrl>  
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar Thanos V12 ™</desc>
+<desc>Thanos V12 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/Thanos_V12.png</url>
 <target type="u">psgm:install?contentid=UP0100-ZMODOOLBX_00-PINK1000DEVIL303&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Thanos_V12.pkg</target>
 <cntry agelmt="0">all</cntry>
@@ -69,23 +69,15 @@
 </mtrl>  
     
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar Soccer Store ™</desc>
+<desc>Soccer Store ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/SoccerStore.png</url>
 <target type="u">psgm:install?contentid=TA9000-SOCCERPS3_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/SoccerStore_1.2.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
-  
+    
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar PS3 HEN Games ™</desc>
-<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/PS3HENGames.png</url>
-<target type="u">psgm:install?contentid=CUSTOM-PS3HENGAM_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/PS3HENGames.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
-  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar MaxStore 3.5 ™</desc>
+<desc>MaxStore 3.5 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/MaxStore.png</url>
 <target type="u">psgm:install?contentid=TA9000-MAXISTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/MaxStore_3.5.pkg</target>
 <cntry agelmt="0">all</cntry>
@@ -93,7 +85,7 @@
 </mtrl> 
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar MaxPlayGames 1.0 ™</desc>
+<desc>MaxPlayGames 1.0 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/MaxPlayGames.png</url>
 <target type="u">psgm:install?contentid=TA9000-MAXPGAMES_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/MaxPlayGames.pkg</target>
 <cntry agelmt="0">all</cntry>
@@ -101,7 +93,7 @@
 </mtrl> 
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar JymStore 3.1 ™</desc>
+<desc>JymStore 3.1 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/JymStore.png</url>
 <target type="u">psgm:install?contentid=TA9000-JYMSSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/JYMSSTORE.pkg</target>
 <cntry agelmt="0">all</cntry>
@@ -109,7 +101,7 @@
 </mtrl>  
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar JxlStore v4000 ™</desc>
+<desc>JxlStore v4000 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/JxlStore.png</url>
 <target type="u">psgm:install?contentid=TA9000-JTSMODDER_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/JxlStore.pkg</target>
 <cntry agelmt="0">all</cntry>
@@ -117,7 +109,7 @@
 </mtrl> 
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar Ghost Store 2.0 ™</desc>
+<desc>Ghost Store 2.0 ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/GhostStore.png</url>
 <target type="u">psgm:install?contentid=TA9000-GHOSTSHOP_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/GhostStore.pkg</target>
 <cntry agelmt="0">all</cntry>
@@ -125,7 +117,7 @@
 </mtrl> 
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar ErneStore ™</desc>
+<desc>ErneStore ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/ErneStore.png</url>
 <target type="u">psgm:install?contentid=TA9000-ERNESTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/ErneStore_2.5.pkg</target>
 <cntry agelmt="0">all</cntry>
@@ -133,12 +125,20 @@
 </mtrl>
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>Baixar DuckStore ™</desc>
+<desc>DuckStore ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/DuckStore.png</url>
 <target type="u">psgm:install?contentid=TA9000-DUCKSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/DuckStore.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>   
+</mtrl>  
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Apollo Save Tools ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/DuckStore.png</url>
+<target type="u">psgm:install?contentid=TA9000-DUCKSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/DuckStore.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>     
   
 </spc>
 </nsx>
