@@ -134,11 +134,59 @@
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Apollo Save Tools ™</desc>
-<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/DuckStore.png</url>
-<target type="u">psgm:install?contentid=TA9000-DUCKSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/DuckStore.pkg</target>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/apollo.png</url>
+<target type="u">psgm:install?contentid=TA9000-DUCKSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Apollo.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>     
+</mtrl>  
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Multiman ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/multiman.png</url>
+<target type="u">psgm:install?contentid=TA9000-DUCKSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Multiman.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Webman MoD ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/webman.png</url>
+<target type="u">psgm:install?contentid=TA9000-DUCKSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Webman.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Movian ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/movian.png</url>
+<target type="u">psgm:install?contentid=TA9000-DUCKSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/movian-5.0.546.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Sen Enable™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/sen_enable.png</url>
+<target type="u">psgm:install?contentid=TA9000-DUCKSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/SEN_Enabler_v6.2.7.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl> 
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Youtube No PSN™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/youtube.png</url>
+<target type="u">psgm:install?contentid=TA9000-DUCKSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Youtube.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>
+
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>NetFlix No PSN™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/netfilx.png</url>
+<target type="u">psgm:install?contentid=TA9000-DUCKSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/Netflix.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>   
   
 </spc>
 </nsx>
