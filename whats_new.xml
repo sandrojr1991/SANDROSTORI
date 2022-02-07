@@ -182,8 +182,8 @@
   
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>YukioStore ™</desc>
-<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/DuckStore.png</url>
-<target type="u">psgm:install?contentid=TA9000-DUCKSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/DuckStore.pkg</target>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/YukioStore.png</url>
+<target type="u">psgm:install?contentid=YG4000-YGYOSTORE_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/DuckStore.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>   
