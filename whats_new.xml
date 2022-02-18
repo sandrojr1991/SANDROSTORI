@@ -60,6 +60,14 @@
 <lang>all</lang>
 </mtrl>
 
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>BLOG JRK GAMES ™</desc>
+<url type="2">https://raw.githubusercontent.com/sandrojr1991/SANDROSTORI/main/media/COMPRAR%20SANDRO.png</url>
+<target type="u">https://jrkgames2k.blogspot.com/</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>   
+  
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Zuko Store™ 3.7</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/zukostore.png</url>
