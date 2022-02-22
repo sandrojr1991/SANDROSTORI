@@ -243,15 +243,15 @@
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
-  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
-<desc>Google Crome Debug ™</desc>
-<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/GoogleCrome.png</url>
-<target type="u">https://www.mediafire.com/file/pi3yhg9ge7y21no/Blog_JRK.pkg/file/</target>
+
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>Google Station Drive ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/GoogleDrivePlayStation.png</url>
+<target type="u">psgm:install?contentid=CUSTOM-SANDGODRV_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/GoogleStationDrive.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>   
-  
+    
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
 <desc>Atualizar store fix ™</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/fix_stores.png</url>
