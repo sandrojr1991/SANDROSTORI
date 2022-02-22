@@ -250,7 +250,15 @@
 <target type="u">https://www.mediafire.com/file/pi3yhg9ge7y21no/Blog_JRK.pkg/file/</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
-</mtrl>    
+</mtrl>   
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="emergency=1">
+<desc>Atualizar store fix ™</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/fix_stores.png</url>
+<target type="u">https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/store_tools_fix.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>   
   
 </spc>
 </nsx>
