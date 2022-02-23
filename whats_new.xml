@@ -59,15 +59,7 @@
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>
-  
-<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
-<desc>BLOG JRK Games™ Google Drive</desc>
-<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/jrkgames.png</url>
-<target type="u">psgm:install?contentid=CUSTOM-BLOGJRKGA_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/JrkGames.pkg</target>
-<cntry agelmt="0">all</cntry>
-<lang>all</lang>
-</mtrl>  
-  
+    
 <mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
 <desc>Zuko Store™ 3.8</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/zukostore_3.8.png</url>
@@ -80,6 +72,30 @@
 <desc>Retro Store™ MaxplayGames</desc>
 <url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/RetroGames.png</url>
 <target type="u">psgm:install?contentid=TA9000-RETROSTOR_00-GLORYOFBRUNESTUD&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/RetroGames.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>  
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>BLOG JRK Games™ Google Drive</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/jrkgames.png</url>
+<target type="u">psgm:install?contentid=CUSTOM-BLOGJRKGA_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/JrkGames.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>BLOG Tojjo Games™ Google Drive</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/jrkgames.png</url>
+<target type="u">psgm:install?contentid=CUSTOM-BLOGTOJJO_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/JrkGames.pkg</target>
+<cntry agelmt="0">all</cntry>
+<lang>all</lang>
+</mtrl>
+  
+<mtrl id="0" lastm="2100-09-12T15:10:00.000Z" until="2100-12-31T23:59:00.000Z" anno="picks=1">
+<desc>BLOG Tkdor Modder™ Google Drive</desc>
+<url type="2">https://github.com/sandrojr1991/SANDROSTORI/raw/main/media/TkdorModder.png</url>
+<target type="u">psgm:install?contentid=CUSTOM-BLOGTKDOR_00-0000000000000000&amp;url=https://github.com/sandrojr1991/SANDROSTORI/releases/download/Arquivos/TkdorModder.pkg</target>
 <cntry agelmt="0">all</cntry>
 <lang>all</lang>
 </mtrl>  
